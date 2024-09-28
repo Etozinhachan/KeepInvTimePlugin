@@ -1,0 +1,6 @@
+name: KeepInvTimePlugin
+version: '${project.version}'
+main: me.eto_chan.keepinvtimeplugin.KeepInvTimePlugin
+api-version: '1.20'
+authors: [Eto_chan]
+description: plugin potente
